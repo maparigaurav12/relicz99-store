@@ -4,7 +4,7 @@ const CONFIG = {
   whatsappNumber: "917057059903", // India country code +91 + 7057059903
   currency: "₹",
   price: 1199,
-  instagramUrl: "https://www.instagram.com/" // Replace with the official Relicz99 profile URL
+  instagramUrl: "https://www.instagram.com/relicz99goa?utm_source=ig_web_button_share_sheet&mdxt=ZDNlZDc0MzIxNw=="
 };
 
 // Replace image paths with your own original product photographs.
