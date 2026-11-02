@@ -200,6 +200,15 @@ footer,
 }
 
 @media (max-width: 720px) {
+  .modal-image {
+    height: clamp(280px, 80vw, 340px);
+    min-height: 0;
+  }
+
+  .modal-image .product-placeholder {
+    min-height: 100%;
+  }
+
   .section-pad {
     padding-right: 6%;
     padding-left: 6%;
