@@ -127,14 +127,12 @@ function whatsappOrder(product, size) {
   const message = [
     `Hello ${CONFIG.brandName}!`,
     "",
-    "I'm interested in ordering the following jersey:",
+    "I'm interested in buying this jersey. Could you please share more information and let me know how to place an order?",
     "",
     `Product: ${product.name}`,
     "Version: Authentic Player Version",
     `Size: ${size}`,
     `Price: ${CONFIG.currency}${productPrice.toLocaleString("en-IN")}`,
-    "",
-    "Please share the ordering details.",
     "",
     "Thank you!"
   ].join("\n");
